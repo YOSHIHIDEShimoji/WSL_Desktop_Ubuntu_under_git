@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main()
 {
 	int x; /*integer(整数)型の変数xの宣言*/
